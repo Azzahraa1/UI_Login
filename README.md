@@ -1,16 +1,3 @@
-# ui_login
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![homepage](https://github.com/Azzahraa1/UI_Login/assets/107418303/1bf5dca0-27a9-4353-b733-8022477a4fa5)
+![login](https://github.com/Azzahraa1/UI_Login/assets/107418303/fbfb2502-57c9-4820-9251-be34f9eaed0e)
+![register](https://github.com/Azzahraa1/UI_Login/assets/107418303/451225ce-d6a8-4221-a4fc-88bdc3c3765c)
